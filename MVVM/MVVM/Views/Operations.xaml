@@ -16,7 +16,7 @@
             </StackLayout>
             <StackLayout Orientation="Horizontal">
                 <Button Text="Restar" Command="{Binding Restar}"/>
-                <Label Text="{Binding ResultRestar}"/>
+                <Label Text="{Binding ResultResta}"/>
             </StackLayout>
             <StackLayout Orientation="Horizontal">
                 <Button Text="Multiplicar" Command="{Binding Multiplicar}"/>
